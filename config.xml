@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.eliasmamalias.tictactoe"
+        versionCode = "10" 
+        version     = "0.0.1" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>TICTACTOE</name>
+
+    <description>
+        A Simple TicTacToe by EMamaliasJr :P
+    </description>
+
+    <author href="https://www.facebook.com/eliasmamalias" email="mamalias23@gmail.com">
+        Elias Mamalias Jr.
+    </author>
+
+</widget>
