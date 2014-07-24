@@ -17,4 +17,6 @@
         Elias Mamalias Jr.
     </author>
 
+    <icon src="icon.png" width="60" height="74" />
+
 </widget>
